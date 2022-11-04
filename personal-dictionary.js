@@ -1,7 +1,11 @@
 let words = [];
-  function Search (words){
+
+  function search (words){
+return words.includes(words);
+  }
 
   function addWord (words){
-
+words.push(push)
   }
-  export { Search, addWord }
+
+  export { search, addWord }
